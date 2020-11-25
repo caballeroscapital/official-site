@@ -1,0 +1,52 @@
+
+
+main{
+  padding-top:30px;
+  box-sizing: border-box;
+  .mechanism{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-between;
+    a{
+      width: 32%;
+      display: block;
+      img{
+        display: block;
+        width: 100%;
+      }
+
+    }
+    &.hero {
+
+      /*text-align: center;*/
+      top: 0;
+      //&:after {
+      //  border-bottom: 1px solid #dedede;
+      //  content: "";
+      //  display: block;
+      //  margin: 2rem auto 0;
+      //  width: 15%
+      //}
+      //&> p:not(.author-page__info) {
+      //  color: #585858;
+      //  font-size: .6243rem;
+      //  letter-spacing: .18em;
+      //  margin: 0 0 .75rem;
+      //  text-transform: uppercase
+      //}
+    }
+
+
+  }
+
+  .link{
+      border-bottom: 1px solid #dedede;
+      content: "";
+      display: block;
+      width: 15%;
+    margin: 0 auto;
+
+  }
+
+}
+

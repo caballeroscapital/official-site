@@ -1,0 +1,30 @@
+main {
+  padding-top: 30px;
+  box-sizing: border-box;
+}
+main .mechanism {
+  display: flex;
+  flex-flow: wrap;
+  justify-content: space-between;
+}
+main .mechanism a {
+  width: 32%;
+  display: block;
+}
+main .mechanism a img {
+  display: block;
+  width: 100%;
+}
+main .mechanism.hero {
+  /*text-align: center;*/
+  top: 0;
+}
+main .link {
+  border-bottom: 1px solid #dedede;
+  content: "";
+  display: block;
+  width: 15%;
+  margin: 0 auto;
+}
+
+/*# sourceMappingURL=protfolio.css.map */
