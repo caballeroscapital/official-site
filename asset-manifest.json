@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.9ea72109.chunk.css",
-    "main.js": "./static/js/main.e3e0ce6f.chunk.js",
-    "main.js.map": "./static/js/main.e3e0ce6f.chunk.js.map",
+    "main.js": "./static/js/main.c1f2fa8c.chunk.js",
+    "main.js.map": "./static/js/main.c1f2fa8c.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.c9290dc2.js",
     "runtime-main.js.map": "./static/js/runtime-main.c9290dc2.js.map",
     "static/js/2.1153ed61.chunk.js": "./static/js/2.1153ed61.chunk.js",
@@ -20,6 +20,8 @@
     "static/media/Vchain_logo_1@2x.c0b1d30d.png": "./static/media/Vchain_logo_1@2x.c0b1d30d.png",
     "static/media/index.css": "./static/media/background@2x.d666ea28.jpg",
     "static/media/green-color.34629528.png": "./static/media/green-color.34629528.png",
+    "static/media/nuio_logo@2x.0e2bf729.png": "./static/media/nuio_logo@2x.0e2bf729.png",
+    "static/media/numio_logo@2x.e98f79f4.png": "./static/media/numio_logo@2x.e98f79f4.png",
     "static/media/ocean_logo_8@2x.600c3ee8.png": "./static/media/ocean_logo_8@2x.600c3ee8.png",
     "static/media/polkadot_logo_7@2x.584deac4.png": "./static/media/polkadot_logo_7@2x.584deac4.png",
     "static/media/source_logo_10@2x.77b7d626.png": "./static/media/source_logo_10@2x.77b7d626.png"
@@ -28,6 +30,6 @@
     "static/js/runtime-main.c9290dc2.js",
     "static/js/2.1153ed61.chunk.js",
     "static/css/main.9ea72109.chunk.css",
-    "static/js/main.e3e0ce6f.chunk.js"
+    "static/js/main.c1f2fa8c.chunk.js"
   ]
 }
