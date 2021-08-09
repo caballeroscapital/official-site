@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.9ea72109.chunk.css",
-    "main.js": "./static/js/main.fea0a6ee.chunk.js",
-    "main.js.map": "./static/js/main.fea0a6ee.chunk.js.map",
+    "main.js": "./static/js/main.61b0f25a.chunk.js",
+    "main.js.map": "./static/js/main.61b0f25a.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.c9290dc2.js",
     "runtime-main.js.map": "./static/js/runtime-main.c9290dc2.js.map",
     "static/js/2.1153ed61.chunk.js": "./static/js/2.1153ed61.chunk.js",
@@ -18,7 +18,7 @@
     "static/media/Radiccle_logo_3@2x.6c38d453.png": "./static/media/Radiccle_logo_3@2x.6c38d453.png",
     "static/media/Ren_logo_4@2x.be20364f.png": "./static/media/Ren_logo_4@2x.be20364f.png",
     "static/media/Vchain_logo_1@2x.c0b1d30d.png": "./static/media/Vchain_logo_1@2x.c0b1d30d.png",
-    "static/media/anuio_logo@2x.3178b6c5.png": "./static/media/anuio_logo@2x.3178b6c5.png",
+    "static/media/anuio_logo@2x.34bcc1bb.png": "./static/media/anuio_logo@2x.34bcc1bb.png",
     "static/media/index.css": "./static/media/background@2x.d666ea28.jpg",
     "static/media/green-color.34629528.png": "./static/media/green-color.34629528.png",
     "static/media/nuio_logo@2x.f1419a7e.png": "./static/media/nuio_logo@2x.f1419a7e.png",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.c9290dc2.js",
     "static/js/2.1153ed61.chunk.js",
     "static/css/main.9ea72109.chunk.css",
-    "static/js/main.fea0a6ee.chunk.js"
+    "static/js/main.61b0f25a.chunk.js"
   ]
 }
