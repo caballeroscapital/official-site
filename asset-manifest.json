@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.9ea72109.chunk.css",
-    "main.js": "./static/js/main.9f9f05e0.chunk.js",
-    "main.js.map": "./static/js/main.9f9f05e0.chunk.js.map",
+    "main.js": "./static/js/main.fdd214da.chunk.js",
+    "main.js.map": "./static/js/main.fdd214da.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.c9290dc2.js",
     "runtime-main.js.map": "./static/js/runtime-main.c9290dc2.js.map",
     "static/js/2.1153ed61.chunk.js": "./static/js/2.1153ed61.chunk.js",
@@ -19,8 +19,10 @@
     "static/media/Ren_logo_4@2x.be20364f.png": "./static/media/Ren_logo_4@2x.be20364f.png",
     "static/media/Vchain_logo_1@2x.c0b1d30d.png": "./static/media/Vchain_logo_1@2x.c0b1d30d.png",
     "static/media/index.css": "./static/media/background@2x.d666ea28.jpg",
+    "static/media/fx.af2cc312.png": "./static/media/fx.af2cc312.png",
     "static/media/green-color.34629528.png": "./static/media/green-color.34629528.png",
     "static/media/nft_company.18ea6fef.png": "./static/media/nft_company.18ea6fef.png",
+    "static/media/nftcompanyTransparent.4b98ed7d.png": "./static/media/nftcompanyTransparent.4b98ed7d.png",
     "static/media/nuio_logo@2x.f1419a7e.png": "./static/media/nuio_logo@2x.f1419a7e.png",
     "static/media/numio_logo@2x.e98f79f4.png": "./static/media/numio_logo@2x.e98f79f4.png",
     "static/media/ocean_logo_8@2x.600c3ee8.png": "./static/media/ocean_logo_8@2x.600c3ee8.png",
@@ -31,6 +33,6 @@
     "static/js/runtime-main.c9290dc2.js",
     "static/js/2.1153ed61.chunk.js",
     "static/css/main.9ea72109.chunk.css",
-    "static/js/main.9f9f05e0.chunk.js"
+    "static/js/main.fdd214da.chunk.js"
   ]
 }
